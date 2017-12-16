@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>MyProjectName</title>
+		<base href="./">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="icon" type="image/x-icon" href="favicon.ico">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	<link href="styles.d61cfe07f379d0f23b5d.bundle.css" rel="stylesheet"/></head>
+	<body>
+		<app-root></app-root>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script>window.jQuery || document.write('<script src="assets/js/jquery.min.js"><\/script>')</script>
+		<script src="assets/js/bootstrap.min.js"></script>
+		<script src="assets/js/jquery.flexslider-min.js"></script>
+		<script src="assets/js/jquery.fancybox.pack.js"></script>
+		<script src="assets/js/jquery.waypoints.min.js"></script>
+		<script src="assets/js/retina.min.js"></script>
+		<script src="assets/js/modernizr.js"></script>
+		<script src="assets/js/main.js"></script>
+		<script src="assets/js/placeholder.js"></script>
+		<script src="assets/js/scripts.js"></script>
+	<script type="text/javascript" src="inline.d0587837bdd353b68003.bundle.js"></script><script type="text/javascript" src="polyfills.3fcfff9a28501dd94e14.bundle.js"></script><script type="text/javascript" src="vendor.e16f8815aa3ce742ea8f.bundle.js"></script><script type="text/javascript" src="main.5186e40d375ba23d0320.bundle.js"></script></body>
+</html>
